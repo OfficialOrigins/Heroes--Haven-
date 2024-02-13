@@ -1,0 +1,99 @@
+FBLA Heroes' Haven
+Hello, our names are Awani Sonawane, Arav Halade, and Angelina Velez. We were tasked to create a website for a charity gala sponsoring the non-profit Special Operations Warrior Foundation (SOWF). Our website is supported on all website browsers. 
+
+You can connect with us through various social platforms: 
+Our website: https://www.heroeshaventpa.com/
+Instagram: https://www.instagram.com/heroeshaventpa/
+Twitter: https://twitter.com/HeroesHaventpa
+
+
+
+1. Our Planning, Development, and Implementation Stage 
+2. Website Features 
+3. Website UX Design 
+4. Website Content
+5. Website Evaluation 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Our Planning, Development, and Implementation Stage 
+
+-	During our FBLA project, we went through several design iterations, constantly tweaking and refining our ideas. We regularly met with advisors to gather feedback and insights, which helped us shape our project for success. 
+
+-	Finding the perfect non-profit was an exceedingly challenging task. Every non-profit is as worthy as the next, but we wanted to find one with which we could really connect. SOWF did just that. It not only has a great cause, supporting families of injured warriors, but it also really hits the heart. 
+
+-	We initially started from scratch, using containers and different visual elements. We also implemented other pages from different WIX templates and tweaked the design to eventually make it our own. We worked diligently to get our website to where it is now. After many hurdles crossed, we eventually got to where we really wanted. The final product of “Heroes’ Haven.”
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2.	Website Features
+
+-	When landing on the homepage, visitors are immediately greeted with a sleek design and simple navigation, guiding them effortlessly through everything the site offers. The SOWF logo is also strategically placed right in the middle to successfully guide users to their site in case they wanted more information. As they scroll down, they will see an inspiring quote to keep them in the right mindset as they continue to navigate the site. Next up is the “About Us” section to thoroughly explain what Heroes’ Haven is and what we stand for. Continuing to scroll, visitors will find a “Join Us” section, showing and leading them to the “RSVP” and “Volunteer” subpage so they can be involved. Next, the “Donate” section. This includes a thoughtful paragraph on what SOWF is so they can learn more about the cause. It also includes a “Donate” button to lead them to the donate page and form in case they would like to support. Finally, the footer, which includes ways they can connect with us, including social media, email, and phone number. It then has multiple buttons to lead them to our copyright page, register page, a page containing our website’s success metrics, and our iconic logo.
+
+-	Throughout our homepage there’s multiple outlets for our users to register. Once they click any of the buttons, they are led to the “Register” page. This page includes buttons to lead the user to either the “RSVP” page or the “Volunteer” page. As they scroll down, they will see an information box explaining what Heroes’ Haven is on a deeper level. It will include the date, time, and location as well.
+
+-	Continuing, is the “RSVP” subpage/form. This includes a minimalistic form asking for basic contact information. Once the user clicks next, they will see questions on whether it is their first time registering or not, and if they had any questions or comments. Once they have submitted the form, the user will receive a confirmation email regarding the registration.
+
+-	Our website also includes a “Volunteer” subpage/form in case users would like to help during the event. Just as the “RSVP” subpage, it includes a form asking for contact information. It then asks if the user has volunteered before and what time he/she plans to show up at the event. They are then sent an email to confirm they are registered and are fully set.
+
+-	Next up is our “SOWF” page. This page of our website is to inform the user of what our cause really is. It dives deeper into what SOWF is and what they represent. It includes a link to SOWF’s website and a button to lead them to the “Donate” page in case they would like to support.
+
+-	Then is our “Donate” page/form. Firstly, it includes basic questions about contact information, just so they can email the user once they complete the form. It then has a question about who the user is donating to the name of. These options include themselves, SOWF, and someone else. Lastly, the form has a section for the amount of money the user is donating. Once they submit, they will receive a confirmation email and they are set.
+
+-	One of the biggest goals of a website is to increase the traffic and reach out to more users every day. There is no better way to see this than our “Success Metrics” page. This page includes different charts and graphs to show how we reach out to our visitors, so our website traffic shoots up.
+
+-	Lastly is the “Copyright Information” page. This page includes a list of all the sources we have used to make Heroes’ Haven where it is now. From photos to the platform we used, this page has everything, including links to all the sources as well. This is all completed in APA format.
+
+-	One of the biggest features of our website is our “Let’s Chat!” chat box. To access this box, users will first have to accept the cookies as the banner hides the chat box from the viewer’s eye. Once the cookies have been accepted, the chat box can be clicked on to show an easy to access conversation. Once users have submitted any questions or comments they may have, someone from our team will reach out as soon as they can to ensure all our users are happy with their experience.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3.	Website UX Design
+
+-	Diving into the UX design of the website, users are greeted with a plethora of colors. Not excessive but just the right amount. Each section of our color palate has a meaningful value and is not just easy on the eyes. The red, white, and blue represent our country and the very message SOWF stands for. The yellow provides a deeper meaning into Heroes’ Haven, making it our own. 
+
+-	Regarding the images, they provide a visual representation of the website and provide what no one can put into words. Beautiful images are a necessity when regarding something of the heart. Words cannot always provide a heartfelt message, but with the right images, anyone can feel what you want them to feel.
+
+-	Next up are the fonts. The fonts we used were “Lulo Clean” and “Avenir Light.” These are both Sans Serif fonts to enhance the UX design. The colors and the logo are all simplistic. We wanted to do the same for our fonts so there would not be too much on the eyes for the user.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4.	Website Content
+
+-	The right website content is crucial to a website. Whether it is spelling, the right meaning, or grammar, we have it all. We made sure to go through our website multiple times to ensure that our website was free of grammatical and spelling errors. 
+
+-	Giving credit to the correct sources is especially important. We made sure to do that because Heroes’ Haven would not be where we are without them. In the footer of a website, we have a button labeled “Copyright Information,” which leads to a page full of every source we used in APA format. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5.	Website Evaluation
+
+-	Compatibility is a major thing for Heroes’ Haven. With different browsers and devices, we made sure that our website was compatible with them all.
+
+-	Making our website was a difficult but necessary task. The website’s main feature is for it to work, so we went through our website multiple times to ensure there was not a single issue throughout the whole thing.
+
+-	Consistency is key. To ensure that efforts are put in through the entire website, we made sure to try our hardest to make sure everything on our website was perfect. Throughout the whole thing we made sure every page, element, and text was consistent.
+
+-	Success Metrics provide information on how the website is UI wise. We have a page just for this. It provides clear data on our website traffic. We update this monthly to ensure we have the freshest data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
